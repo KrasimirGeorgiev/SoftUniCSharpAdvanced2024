@@ -1,34 +1,34 @@
 ﻿var splitLine1 = Console.ReadLine().Split();
-var numbersToPushInToStack = int.Parse(splitLine1[0]);
-var numbersToPopFromTheStack = int.Parse(splitLine1[1]);
+var numbersToPushInToQueue = int.Parse(splitLine1[0]);
+var numbersToPopFromTheQueue = int.Parse(splitLine1[1]);
 var numberToLookFor = int.Parse(splitLine1[2]);
 
 var splitLine2 = Console.ReadLine().Split();
 
-var stack = new Stack<int>();
+var queue = new Queue<int>();
 
-var n = Math.Min(numbersToPushInToStack, splitLine2.Length);
+var n = Math.Min(numbersToPushInToQueue, splitLine2.Length);
 for (int i = 0; i < n; i++)
 {
     var currentNumberToAdd = int.Parse(splitLine2[i]);
-    stack.Push(currentNumberToAdd);
+    queue.Enqueue(currentNumberToAdd);
 }
 
-while (numbersToPopFromTheStack > 0 && stack.Count() > 0)
+while (numbersToPopFromTheQueue > 0 && queue.Count() > 0)
 {
-    stack.Pop();
-    numbersToPopFromTheStack--;
+    queue.Dequeue();
+    numbersToPopFromTheQueue--;
 }
 
-if (stack.Contains(numberToLookFor))
+if (queue.Contains(numberToLookFor))
 {
     Console.WriteLine("true");
 }
-else if (stack.Count() == 0)
+else if (queue.Count() == 0)
 {
     Console.WriteLine(0);
 }
 else
 {
-    Console.WriteLine(stack.Min());
+    Console.WriteLine(queue.Min());
 }
