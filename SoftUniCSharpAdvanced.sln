@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001. Basic Stack Operations", "001. Basic Stack Operations\001. Basic Stack Operations.csproj", "{97D62983-8D1D-4FB9-96D1-9091AA3B3A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002. Basic Queue Operations", "002. BasicQueueOperations\002. Basic Queue Operations.csproj", "{91BA7ED7-B554-4474-85E1-B4EA3339EE5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D62983-8D1D-4FB9-96D1-9091AA3B3A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D62983-8D1D-4FB9-96D1-9091AA3B3A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D62983-8D1D-4FB9-96D1-9091AA3B3A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D62983-8D1D-4FB9-96D1-9091AA3B3A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BA7ED7-B554-4474-85E1-B4EA3339EE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BA7ED7-B554-4474-85E1-B4EA3339EE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BA7ED7-B554-4474-85E1-B4EA3339EE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BA7ED7-B554-4474-85E1-B4EA3339EE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDF7731D-6EC1-4500-9C54-05EC8A7EA831}
+	EndGlobalSection
+EndGlobal
