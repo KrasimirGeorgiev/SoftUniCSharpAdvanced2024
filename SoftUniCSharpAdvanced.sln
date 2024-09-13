@@ -3,19 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001. Basic Stack Operations", "001. Basic Stack Operations\001. Basic Stack Operations.csproj", "{97D62983-8D1D-4FB9-96D1-9091AA3B3A57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001. Basic Stack Operations", "001. Basic Stack Operations\001. Basic Stack Operations.csproj", "{97D62983-8D1D-4FB9-96D1-9091AA3B3A57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002. Basic Queue Operations", "002. BasicQueueOperations\002. Basic Queue Operations.csproj", "{91BA7ED7-B554-4474-85E1-B4EA3339EE5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002. Basic Queue Operations", "002. BasicQueueOperations\002. Basic Queue Operations.csproj", "{91BA7ED7-B554-4474-85E1-B4EA3339EE5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003. Maximum and Minimum Element", "003. Maximum and Minimum Element\003. Maximum and Minimum Element.csproj", "{B5BBD7DA-4001-4CB6-8095-2C415DDFBDF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003. Maximum and Minimum Element", "003. Maximum and Minimum Element\003. Maximum and Minimum Element.csproj", "{B5BBD7DA-4001-4CB6-8095-2C415DDFBDF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004. Fast Food", "004. Fast Food\004. Fast Food.csproj", "{541088C6-3B2A-482C-9612-05D8B60AA029}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004. Fast Food", "004. Fast Food\004. Fast Food.csproj", "{541088C6-3B2A-482C-9612-05D8B60AA029}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005. Fashion Boutique", "005. Fashion Boutique\005. Fashion Boutique.csproj", "{3EF6EE65-EB56-4B97-A910-8B104B090E7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005. Fashion Boutique", "005. Fashion Boutique\005. Fashion Boutique.csproj", "{3EF6EE65-EB56-4B97-A910-8B104B090E7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006. Songs Queue", "006. Songs Queue\006. Songs Queue.csproj", "{BC090636-0229-4CD6-B672-DBF1DF463DBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006. Songs Queue", "006. Songs Queue\006. Songs Queue.csproj", "{BC090636-0229-4CD6-B672-DBF1DF463DBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007. Truck Tour", "007. Truck Tour\007. Truck Tour.csproj", "{C82F0A31-4082-409B-B076-76D56E48D2EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007. Truck Tour", "007. Truck Tour\007. Truck Tour.csproj", "{C82F0A31-4082-409B-B076-76D56E48D2EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008. Balanced Parentheses", "008. Balanced Parentheses\008. Balanced Parentheses.csproj", "{5A46F670-E377-429D-93A1-16C3481D048B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009. SimpleTextEditor", "009. SimpleTextEditor\009. SimpleTextEditor.csproj", "{2455BD5E-8B70-4662-B12C-B95C3896EF37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{C82F0A31-4082-409B-B076-76D56E48D2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C82F0A31-4082-409B-B076-76D56E48D2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C82F0A31-4082-409B-B076-76D56E48D2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A46F670-E377-429D-93A1-16C3481D048B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A46F670-E377-429D-93A1-16C3481D048B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A46F670-E377-429D-93A1-16C3481D048B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A46F670-E377-429D-93A1-16C3481D048B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2455BD5E-8B70-4662-B12C-B95C3896EF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2455BD5E-8B70-4662-B12C-B95C3896EF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2455BD5E-8B70-4662-B12C-B95C3896EF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2455BD5E-8B70-4662-B12C-B95C3896EF37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
