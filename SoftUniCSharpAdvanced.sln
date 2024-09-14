@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006. Songs Queue", "006. So
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007. Truck Tour", "007. Truck Tour\007. Truck Tour.csproj", "{C82F0A31-4082-409B-B076-76D56E48D2EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008. Balanced Parentheses", "008. Balanced Parentheses\008. Balanced Parentheses.csproj", "{5A46F670-E377-429D-93A1-16C3481D048B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008. Balanced Parentheses", "008. Balanced Parentheses\008. Balanced Parentheses.csproj", "{5A46F670-E377-429D-93A1-16C3481D048B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009. SimpleTextEditor", "009. SimpleTextEditor\009. SimpleTextEditor.csproj", "{2455BD5E-8B70-4662-B12C-B95C3896EF37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009. SimpleTextEditor", "009. SimpleTextEditor\009. SimpleTextEditor.csproj", "{2455BD5E-8B70-4662-B12C-B95C3896EF37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010. Crossroads", "010. Crossroads\010. Crossroads.csproj", "{B48C5681-F611-4AD1-8B5F-BF8A42A9A6AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{2455BD5E-8B70-4662-B12C-B95C3896EF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2455BD5E-8B70-4662-B12C-B95C3896EF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2455BD5E-8B70-4662-B12C-B95C3896EF37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48C5681-F611-4AD1-8B5F-BF8A42A9A6AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48C5681-F611-4AD1-8B5F-BF8A42A9A6AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48C5681-F611-4AD1-8B5F-BF8A42A9A6AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48C5681-F611-4AD1-8B5F-BF8A42A9A6AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
