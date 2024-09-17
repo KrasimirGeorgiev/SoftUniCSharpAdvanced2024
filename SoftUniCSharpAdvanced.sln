@@ -21,11 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008. Balanced Parentheses",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009. SimpleTextEditor", "009. SimpleTextEditor\009. SimpleTextEditor.csproj", "{2455BD5E-8B70-4662-B12C-B95C3896EF37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010. Crossroads", "010. Crossroads\010. Crossroads.csproj", "{B48C5681-F611-4AD1-8B5F-BF8A42A9A6AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010. Crossroads", "010. Crossroads\010. Crossroads.csproj", "{B48C5681-F611-4AD1-8B5F-BF8A42A9A6AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011. Key Revolver", "011. Key Revolver\011. Key Revolver.csproj", "{53AAF801-5B06-481B-B31D-0636F41D2744}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011. Key Revolver", "011. Key Revolver\011. Key Revolver.csproj", "{53AAF801-5B06-481B-B31D-0636F41D2744}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012. Cups and Bottles", "012. Cups and Bottles\012. Cups and Bottles.csproj", "{A97A743A-06E3-447B-8C00-DA306439989F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012. Cups and Bottles", "012. Cups and Bottles\012. Cups and Bottles.csproj", "{A97A743A-06E3-447B-8C00-DA306439989F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013. StacksAndQueuesLabExcercises", "013. StacksAndQueuesLabExcercises\013. StacksAndQueuesLabExcercises.csproj", "{617708A0-A599-45E7-9F96-B3A26A41F213}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{A97A743A-06E3-447B-8C00-DA306439989F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A97A743A-06E3-447B-8C00-DA306439989F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A97A743A-06E3-447B-8C00-DA306439989F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617708A0-A599-45E7-9F96-B3A26A41F213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617708A0-A599-45E7-9F96-B3A26A41F213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617708A0-A599-45E7-9F96-B3A26A41F213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617708A0-A599-45E7-9F96-B3A26A41F213}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
