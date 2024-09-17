@@ -198,4 +198,30 @@
 
 //Console.WriteLine($"Last is {children.Last()}");
 
-// 08. Traffic Jam
+//// 08. Traffic Jam
+var numberOfCarsAbleToPassOnGreen = int.Parse(Console.ReadLine());
+var command = Console.ReadLine();
+var queue = new Queue<string>();
+var carsPassedCounter = 0;
+while (command.ToLower() != "end")
+{
+    if (command.ToLower() == "green")
+    {
+        var counter = numberOfCarsAbleToPassOnGreen;
+        while (counter > 0 && queue.Any())
+        {
+            var carPassed = queue.Dequeue();
+            Console.WriteLine($"{carPassed} passed!");
+            counter--;
+            carsPassedCounter++;
+        }
+    }
+    else
+    {
+        queue.Enqueue(command);
+    }
+
+    command = Console.ReadLine();
+}
+
+Console.WriteLine($"{carsPassedCounter} cars passed the crossroads.");
