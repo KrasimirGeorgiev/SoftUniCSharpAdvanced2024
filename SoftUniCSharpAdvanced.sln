@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011. Key Revolver", "011. K
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012. Cups and Bottles", "012. Cups and Bottles\012. Cups and Bottles.csproj", "{A97A743A-06E3-447B-8C00-DA306439989F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013. StacksAndQueuesLabExcercises", "013. StacksAndQueuesLabExcercises\013. StacksAndQueuesLabExcercises.csproj", "{617708A0-A599-45E7-9F96-B3A26A41F213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "013. StacksAndQueuesLabExcercises", "013. StacksAndQueuesLabExcercises\013. StacksAndQueuesLabExcercises.csproj", "{617708A0-A599-45E7-9F96-B3A26A41F213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014. Diagonal Difference", "014. Diagonal Difference\014. Diagonal Difference.csproj", "{6C004D31-BAB7-4EC1-98B0-D569A06CA41D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{617708A0-A599-45E7-9F96-B3A26A41F213}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{617708A0-A599-45E7-9F96-B3A26A41F213}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{617708A0-A599-45E7-9F96-B3A26A41F213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C004D31-BAB7-4EC1-98B0-D569A06CA41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C004D31-BAB7-4EC1-98B0-D569A06CA41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C004D31-BAB7-4EC1-98B0-D569A06CA41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C004D31-BAB7-4EC1-98B0-D569A06CA41D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
