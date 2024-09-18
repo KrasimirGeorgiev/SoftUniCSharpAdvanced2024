@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "013. StacksAndQueuesLabExce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014. Diagonal Difference", "014. Diagonal Difference\014. Diagonal Difference.csproj", "{6C004D31-BAB7-4EC1-98B0-D569A06CA41D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015.  Squares in Matrix", "015.  Squares in Matrix\015.  Squares in Matrix.csproj", "{295F71D1-C302-405A-A974-443FA72076B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{6C004D31-BAB7-4EC1-98B0-D569A06CA41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C004D31-BAB7-4EC1-98B0-D569A06CA41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C004D31-BAB7-4EC1-98B0-D569A06CA41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295F71D1-C302-405A-A974-443FA72076B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295F71D1-C302-405A-A974-443FA72076B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295F71D1-C302-405A-A974-443FA72076B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295F71D1-C302-405A-A974-443FA72076B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
