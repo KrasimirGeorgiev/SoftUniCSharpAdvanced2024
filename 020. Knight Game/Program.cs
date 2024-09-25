@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-var n = int.Parse(Console.ReadLine());
+﻿var n = int.Parse(Console.ReadLine());
 var matrix = new char[n, n];
 var knightCoordinates = new List<Tuple<int, int>>();
 
