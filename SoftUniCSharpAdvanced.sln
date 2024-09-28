@@ -49,9 +49,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "022. Miner", "022. Miner\02
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "023. Radioactive Mutant Vampire Bunnies", "023. Radioactive Mutant Vampire Bunnies\023. Radioactive Mutant Vampire Bunnies.csproj", "{1069861A-F097-4F35-BB78-0E21EE8413B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "911. Wild Survival", "911. Wild Survival\911. Wild Survival.csproj", "{E901B477-2468-4258-9AFE-7C97EB2C77FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "911. Wild Survival", "911. Wild Survival\911. Wild Survival.csproj", "{E901B477-2468-4258-9AFE-7C97EB2C77FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "912. Collecting Stars Game", "912. Collecting Stars Game\912. Collecting Stars Game.csproj", "{C2D48EE4-59FA-4B03-A79C-539B615B50C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "912. Collecting Stars Game", "912. Collecting Stars Game\912. Collecting Stars Game.csproj", "{C2D48EE4-59FA-4B03-A79C-539B615B50C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "913. Cocktail Bar", "913. Cocktail Bar\913. Cocktail Bar.csproj", "{E6DEBA72-4B38-404B-A300-C49B859BC594}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{C2D48EE4-59FA-4B03-A79C-539B615B50C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2D48EE4-59FA-4B03-A79C-539B615B50C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2D48EE4-59FA-4B03-A79C-539B615B50C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6DEBA72-4B38-404B-A300-C49B859BC594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6DEBA72-4B38-404B-A300-C49B859BC594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6DEBA72-4B38-404B-A300-C49B859BC594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6DEBA72-4B38-404B-A300-C49B859BC594}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
