@@ -55,19 +55,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "912. Collecting Stars Game"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "913. Cocktail Bar", "913. Cocktail Bar\913. Cocktail Bar.csproj", "{E6DEBA72-4B38-404B-A300-C49B859BC594}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023. Sum Matrix Elements", "023. Sum Matrix Elements\023. Sum Matrix Elements.csproj", "{C6383914-EC69-415A-B921-561975805090}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "023. Sum Matrix Elements", "023. Sum Matrix Elements\023. Sum Matrix Elements.csproj", "{C6383914-EC69-415A-B921-561975805090}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024. Sum Matrix Columns", "024. Sum Matrix Columns\024. Sum Matrix Columns.csproj", "{6B3C8890-6004-4411-8276-1D5582FB0761}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "024. Sum Matrix Columns", "024. Sum Matrix Columns\024. Sum Matrix Columns.csproj", "{6B3C8890-6004-4411-8276-1D5582FB0761}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "025. Primary Diagonal", "025. Primary Diagonal\025. Primary Diagonal.csproj", "{24940C38-AFF1-4829-A144-992F13AB0EB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "025. Primary Diagonal", "025. Primary Diagonal\025. Primary Diagonal.csproj", "{24940C38-AFF1-4829-A144-992F13AB0EB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "026. Symbol in Matrix", "026. Primary Diagonal\026. Symbol in Matrix.csproj", "{E2D2A81B-43DA-4CC2-AF00-3BA9329D6EE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "026. Symbol in Matrix", "026. Primary Diagonal\026. Symbol in Matrix.csproj", "{E2D2A81B-43DA-4CC2-AF00-3BA9329D6EE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "027. Square with Maximum Sum", "027. Square with Maximum Sum\027. Square with Maximum Sum.csproj", "{E77F47F3-5A18-435D-BD10-BDAF12F3F735}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "027. Square with Maximum Sum", "027. Square with Maximum Sum\027. Square with Maximum Sum.csproj", "{E77F47F3-5A18-435D-BD10-BDAF12F3F735}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "028. Jagged-Array Modification", "028. Jagged-Array Modification\028. Jagged-Array Modification.csproj", "{74062EF2-59E4-4D22-A09F-DD6BF5DD2D86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "028. Jagged-Array Modification", "028. Jagged-Array Modification\028. Jagged-Array Modification.csproj", "{74062EF2-59E4-4D22-A09F-DD6BF5DD2D86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "029. Pascal Triangle", "029. Pascal Triangle\029. Pascal Triangle.csproj", "{3B646D6F-36E6-4CC7-9CC0-A315F56F7473}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "029. Pascal Triangle", "029. Pascal Triangle\029. Pascal Triangle.csproj", "{3B646D6F-36E6-4CC7-9CC0-A315F56F7473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030. Unique Usernames", "030. Unique Usernames\030. Unique Usernames.csproj", "{1385903F-8D3C-4B01-8913-3B2E8C2EAAB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "031. Sets of Elements", "031. Unique Usernames\031. Sets of Elements.csproj", "{38A25FB3-D0AB-4D9E-9038-D52273DE4FBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +211,14 @@ Global
 		{3B646D6F-36E6-4CC7-9CC0-A315F56F7473}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B646D6F-36E6-4CC7-9CC0-A315F56F7473}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B646D6F-36E6-4CC7-9CC0-A315F56F7473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1385903F-8D3C-4B01-8913-3B2E8C2EAAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1385903F-8D3C-4B01-8913-3B2E8C2EAAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1385903F-8D3C-4B01-8913-3B2E8C2EAAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1385903F-8D3C-4B01-8913-3B2E8C2EAAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A25FB3-D0AB-4D9E-9038-D52273DE4FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A25FB3-D0AB-4D9E-9038-D52273DE4FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A25FB3-D0AB-4D9E-9038-D52273DE4FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A25FB3-D0AB-4D9E-9038-D52273DE4FBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
