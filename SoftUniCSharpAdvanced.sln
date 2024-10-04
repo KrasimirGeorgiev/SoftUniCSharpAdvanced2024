@@ -75,11 +75,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "031. Sets of Elements", "03
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "032. Periodic Table", "032. Periodic Table\032. Periodic Table.csproj", "{7CC8998C-09EB-414F-B1E0-1E365393E4A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "033. Event Times", "033. Event Times\033. Event Times.csproj", "{074E47E5-FFB8-4F66-8211-507D6634E1E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "033. Event Times", "033. Event Times\033. Event Times.csproj", "{074E47E5-FFB8-4F66-8211-507D6634E1E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "034. Count Symbols", "034. Count Symbols\034. Count Symbols.csproj", "{60B6A611-DB08-4DB3-AE8A-ED842D94B47A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "034. Count Symbols", "034. Count Symbols\034. Count Symbols.csproj", "{60B6A611-DB08-4DB3-AE8A-ED842D94B47A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "035. Wardrobe", "035. Wardrobe\035. Wardrobe.csproj", "{3DE9AC2B-4050-46F5-AB19-388B73485A39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "035. Wardrobe", "035. Wardrobe\035. Wardrobe.csproj", "{3DE9AC2B-4050-46F5-AB19-388B73485A39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "036. The V-Logger", "036. The V-Logger\036. The V-Logger.csproj", "{0AB9DF3A-BD14-41DA-91F6-2546EAAC3A4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +245,10 @@ Global
 		{3DE9AC2B-4050-46F5-AB19-388B73485A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DE9AC2B-4050-46F5-AB19-388B73485A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DE9AC2B-4050-46F5-AB19-388B73485A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB9DF3A-BD14-41DA-91F6-2546EAAC3A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB9DF3A-BD14-41DA-91F6-2546EAAC3A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB9DF3A-BD14-41DA-91F6-2546EAAC3A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB9DF3A-BD14-41DA-91F6-2546EAAC3A4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
