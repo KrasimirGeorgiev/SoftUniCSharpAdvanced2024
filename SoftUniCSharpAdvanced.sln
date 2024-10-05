@@ -81,7 +81,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "034. Count Symbols", "034. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "035. Wardrobe", "035. Wardrobe\035. Wardrobe.csproj", "{3DE9AC2B-4050-46F5-AB19-388B73485A39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "036. The V-Logger", "036. The V-Logger\036. The V-Logger.csproj", "{0AB9DF3A-BD14-41DA-91F6-2546EAAC3A4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "036. The V-Logger", "036. The V-Logger\036. The V-Logger.csproj", "{0AB9DF3A-BD14-41DA-91F6-2546EAAC3A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "921.  Rapid Courier", "921.  Rapid Courier\921.  Rapid Courier.csproj", "{2E11C890-F22F-40F6-9B21-A47DFF9B44CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "922.  Beesy", "922.  Rapid Courier\922.  Beesy.csproj", "{A2C46278-C89C-4EF1-A839-CD261E0591F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "923. Estate Agency", "923. Estate Agency\923. Estate Agency.csproj", "{4A8449BF-089A-42A3-880F-B2E59D392971}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +255,18 @@ Global
 		{0AB9DF3A-BD14-41DA-91F6-2546EAAC3A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AB9DF3A-BD14-41DA-91F6-2546EAAC3A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AB9DF3A-BD14-41DA-91F6-2546EAAC3A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E11C890-F22F-40F6-9B21-A47DFF9B44CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E11C890-F22F-40F6-9B21-A47DFF9B44CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E11C890-F22F-40F6-9B21-A47DFF9B44CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E11C890-F22F-40F6-9B21-A47DFF9B44CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C46278-C89C-4EF1-A839-CD261E0591F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C46278-C89C-4EF1-A839-CD261E0591F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C46278-C89C-4EF1-A839-CD261E0591F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C46278-C89C-4EF1-A839-CD261E0591F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A8449BF-089A-42A3-880F-B2E59D392971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8449BF-089A-42A3-880F-B2E59D392971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8449BF-089A-42A3-880F-B2E59D392971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8449BF-089A-42A3-880F-B2E59D392971}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
