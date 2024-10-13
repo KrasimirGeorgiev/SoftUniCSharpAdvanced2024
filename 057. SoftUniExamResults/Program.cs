@@ -11,8 +11,8 @@ while (input != "exam finished")
         var student = inputSpl[0];
         var course = inputSpl[1];
         var points = int.Parse(inputSpl[2]);
-        //if (!bannedStudents.Contains(student))
-        //{
+        if (!bannedStudents.Contains(student))
+        {
             if (!studentCourses.ContainsKey(student))
             {
                 studentCourses.Add(student, new Dictionary<string, List<int>>());
@@ -35,7 +35,7 @@ while (input != "exam finished")
             {
                 examsSubmissions[course] += 1;
             }
-        //}
+        }
     } 
     else if (inputSpl.Count() == 2 && inputSpl[1] == "banned")
     {
