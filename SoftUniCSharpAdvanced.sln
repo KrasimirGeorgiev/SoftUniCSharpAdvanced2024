@@ -143,11 +143,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "057. SoftUniExamResults", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "058. ForceBook", "058. ForceBook\058. ForceBook.csproj", "{8E187C5B-8C3D-4802-8B33-14EB6499C035}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "941. Offroad Challenge", "941. Offroad Challenge\941. Offroad Challenge.csproj", "{6FDA6FDB-B1DF-475B-8ABD-737CC629061F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "941. Offroad Challenge", "941. Offroad Challenge\941. Offroad Challenge.csproj", "{6FDA6FDB-B1DF-475B-8ABD-737CC629061F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "942. Fishing Competition", "942. Fishing Competition\942. Fishing Competition.csproj", "{9AEB1666-66AF-4A9F-A0D6-DA2C9E0E0A0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "942. Fishing Competition", "942. Fishing Competition\942. Fishing Competition.csproj", "{9AEB1666-66AF-4A9F-A0D6-DA2C9E0E0A0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "943. Mail Client", "943. Mail Client\943. Mail Client.csproj", "{958CB7D0-C446-4AFF-A52D-39195E395BEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "943. Mail Client", "943. Mail Client\943. Mail Client.csproj", "{958CB7D0-C446-4AFF-A52D-39195E395BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "951. Temple of Doom", "951. Temple of Doom\951. Temple of Doom.csproj", "{B9083A10-47AB-4AB7-8954-B85445D583C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "952. Mouse In The Kitchen", "952. Mouse In The Kitchen\952. Mouse In The Kitchen.csproj", "{AB930B7A-BD82-48B0-B127-7EF6720B840A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "953. Automotive Repair Shop", "953. Automotive Repair Shop\953. Automotive Repair Shop.csproj", "{44EF953A-7113-41BE-81C5-B83896A79261}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -447,6 +453,18 @@ Global
 		{958CB7D0-C446-4AFF-A52D-39195E395BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{958CB7D0-C446-4AFF-A52D-39195E395BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{958CB7D0-C446-4AFF-A52D-39195E395BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9083A10-47AB-4AB7-8954-B85445D583C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9083A10-47AB-4AB7-8954-B85445D583C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9083A10-47AB-4AB7-8954-B85445D583C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9083A10-47AB-4AB7-8954-B85445D583C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB930B7A-BD82-48B0-B127-7EF6720B840A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB930B7A-BD82-48B0-B127-7EF6720B840A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB930B7A-BD82-48B0-B127-7EF6720B840A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB930B7A-BD82-48B0-B127-7EF6720B840A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44EF953A-7113-41BE-81C5-B83896A79261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EF953A-7113-41BE-81C5-B83896A79261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EF953A-7113-41BE-81C5-B83896A79261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EF953A-7113-41BE-81C5-B83896A79261}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
